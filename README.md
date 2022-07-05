@@ -15,28 +15,10 @@
 | :--: | :--: | :--: |
 | TreeBoard  | A discord bot use MongoDB | discordbump.chvmusic.repl.co
 | Spotify-saves For Java | A Spotify playlist Save Writed By Java | Not Created |
-| Måsker | the game first for PC | tuyancong.github.io/maskerGame/ |
-### Config
-```js
-const project ={
-    Masker: {
-   Created: "java",
-   MetaByte: 1/1,
-},
-    Other: {
-   Treeboard: "a discord bot use MongoDB",
-   Spotify-saves: "deathed",
-}
-}
-const Last ={
- created: project.Masker.Created
-}
-```
-## Special Thank You for Your support a for me!
-a man was arrested on Github[:basecampy:]
+
 
 <!--
-**TuyAnCbayAnCong** is a ✨ial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TuyAnCong/TuyAnCong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
